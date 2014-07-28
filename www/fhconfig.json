@@ -1,7 +1,7 @@
 {
-  "host": "<host>",
-  "appid": "<appid>",
-  "projectid": "<projectid>",
-  "appkey": "<appkey>",
-  "connectiontag": "<connectiontag>"
+    "appid": "A1MBUpqzHU38fFLwPiETMKo7",
+    "appkey": "c82804b28f70948b7c9af22b25e7bb3c142fe7d2",
+    "connectiontag": "0.0.1",
+    "host": "https://testing.beta.feedhenry.com",
+    "projectid": "A1MBUrbDuUy3nuCmhsUK2auK"
 }
